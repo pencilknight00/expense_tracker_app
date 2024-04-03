@@ -3,7 +3,7 @@
     "name": "61fit3mpr_assignment_03_2101040211",
     "slug": "61fit3mpr_assignment_03_2101040211",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
